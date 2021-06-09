@@ -8,6 +8,6 @@ import { Template } from '../template';
 
 export const SiteContents = (
   <main>
-    Hello World
+    <h1>hi</h1>
   </main>
 );
